@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 change text
-=======
 gene değişti
->>>>>>> local
+hey ededede
